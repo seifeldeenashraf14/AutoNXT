@@ -1,0 +1,48 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="The sequence of the bootloader." alt="" coords="5,427,55,453"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a9c26879df40a5e80c53bcd969a9990c5" title="A function that set the start address of vector table and application." alt="" coords="135,31,305,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,426,35,352,47,244,68,138,83,96,101,68,119,54,122,58,105,71,87,98,73,139,52,245,40,352,35,426"/>
+<area shape="rect" id="Node000005" href="$_m_g_p_i_o__program_8c.html#aae23291b921ddee3911bb797a5ea6c39" title="this function is responsible for setting the alternative function of any selected GPIO pins" alt="" coords="124,81,316,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="30,426,38,364,52,277,73,191,86,157,101,134,109,127,112,131,105,138,90,160,78,193,57,278,43,365,35,427"/>
+<area shape="rect" id="Node000006" href="$_m_g_p_i_o__program_8c.html#a50c70acc1669a34bee9bd7350ea8bc77" title="this function is responsible for setting any pin mode of STM GPIO pins" alt="" coords="138,148,302,175"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="28,426,29,380,37,315,46,280,59,245,77,213,101,185,122,171,125,175,104,189,81,216,64,247,51,281,42,316,34,380,33,426"/>
+<area shape="rect" id="Node000007" href="$_m_g_p_i_o__program_8c.html#af764d75a88a2476b5a14318c12b4fe3f" title="this function is responsible for setting the output configurations of any selected GPIO pin" alt="" coords="118,199,322,225"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="29,426,33,388,44,336,65,282,81,257,101,235,105,232,108,236,105,239,85,260,70,284,49,338,38,389,34,426"/>
+<area shape="rect" id="Node000008" href="$_m_g_p_i_o__program_8c.html#ab3372184ad814036f3d8c2d1049197dd" title="this function is responsible for setting the value of any output GPIO pin" alt="" coords="137,249,303,276"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="31,426,38,396,51,358,71,319,101,286,121,274,124,278,104,290,76,322,56,360,43,398,36,427"/>
+<area shape="rect" id="Node000009" href="$_m_r_c_c__program_8c.html#ac49a84d89c5353f52b922c73ff564848" title="This function responsible of Enabling the peripheral Clock From RCC." alt="" coords="127,300,313,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="35,425,59,381,78,357,101,337,111,331,114,335,104,341,82,360,63,384,39,427"/>
+<area shape="rect" id="Node000010" href="$_m_r_c_c__program_8c.html#a0879ae818c01b453bb70df7caf0b9aa8" title="This function is responsible of Initializing Reset Clock Control." alt="" coords="167,351,273,377"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="45,424,70,405,102,387,151,371,153,376,104,392,73,409,48,428"/>
+<area shape="rect" id="Node000011" href="$_m_s_t_k__program_8c.html#ab6a2d93c82b336dafa2aee648288f3d2" title="This funciton used to Control the Clock Source and the interrupt." alt="" coords="168,401,272,428"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="55,434,152,421,153,426,55,439"/>
+<area shape="rect" id="Node000012" href="$_m_s_t_k__program_8c.html#af7f58dc44784b3beae339b00082ab320" title="This funciton is used to generate an interrupt after period of time." alt="" coords="119,452,321,479"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="55,441,104,447,103,452,55,446"/>
+<area shape="rect" id="Node000013" href="$_m_s_t_k__program_8c.html#a482eb2588bdf9eb011893b931f336df4" title="This funciton is used to stop the counting at anytime in the system" alt="" coords="163,503,277,529"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="48,452,73,471,104,488,149,503,148,508,102,493,70,475,45,456"/>
+<area shape="rect" id="Node000014" href="$_m_u_a_r_t__program_8c.html#ab24cb248f8359a8fe5fef2940825c66d" title="This function responsible of Receiving the data from UART1." alt="" coords="103,553,337,580"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="39,453,63,496,82,520,104,539,112,544,110,549,101,543,78,523,59,499,35,455"/>
+<area shape="rect" id="Node000015" href="$_m_u_a_r_t__program_8c.html#a12f2cdb6c0a1eb35a953d74e99b7b3af" title="This function responsible of Enabling the interrupt of UART1." alt="" coords="149,604,291,631"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="36,453,43,482,56,520,76,558,104,590,135,606,133,611,101,594,71,561,51,522,38,484,31,454"/>
+<area shape="rect" id="Node000016" href="$_m_u_a_r_t__program_8c.html#abd4611b2b2a144980010fb971d7529dd" title="This function responsible of Initializing UART1." alt="" coords="160,655,280,681"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="34,454,38,491,49,542,70,596,85,620,104,641,124,653,146,661,144,666,121,658,101,645,81,623,65,598,44,544,33,492,29,454"/>
+<area shape="rect" id="Node000017" href="$_m_u_a_r_t__program_8c.html#a4336efc7e2876e47e705a9f37cc07769" title="This function responsible of Transmitting the data from UART1." alt="" coords="426,705,578,732"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="36,453,44,507,58,579,79,649,91,675,104,691,126,703,156,712,235,722,325,724,410,722,410,727,325,730,235,727,155,717,124,708,101,695,87,677,74,650,53,581,39,508,30,454"/>
+<area shape="rect" id="Node000018" href="$_s_hex_parser__program_8c.html#a55e514bdc0ad365bc85f382ec6ff78d1" title="This function is responsible for parsing different types of Intel Hex records and taking appropriate ..." alt="" coords="117,756,323,799"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="36,453,58,599,79,681,91,714,105,736,115,745,111,749,101,739,86,716,74,683,53,600,30,454"/>
+<area shape="rect" id="Node000023" href="$_s_hex_parser__program_8c.html#ad10fd560c8cb8b16d3a0744cc5c0fee7" title="This function to set a callback function that can be executed in response to specific conditions." alt="" coords="124,823,316,865"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="35,454,40,527,53,634,74,740,88,781,105,809,113,817,109,820,101,812,83,783,69,741,48,635,35,528,29,454"/>
+<area shape="rect" id="Node000003" href="$_m_s_c_b__program_8c.html#a724b5aeeca3086037aafa4b685b5d7b8" title="This function set the vector table of the microcontroller." alt="" coords="413,5,590,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,34,397,25,398,31,305,39"/>
+<area shape="rect" id="Node000004" href="$_m_s_t_k__program_8c.html#a06f7aa2eae169670786e8c13c7b04c70" title="This funciton is used to calculate the elapsed time from it starts to count." alt="" coords="411,56,593,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="305,49,396,57,395,62,305,54"/>
+<area shape="poly" id="edge18_Node000018_Node000017" title=" " alt="" coords="323,753,419,733,420,738,324,758"/>
+<area shape="rect" id="Node000019" href="$_s_hex_parser__program_8c.html#a9ca68304961ef7223393e8926b31b246" title="This Function responsible for parsing and processing a line of Intel Hexadecimal format data." alt="" coords="385,756,618,783"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="323,772,369,770,370,776,324,777"/>
+<area shape="rect" id="Node000021" href="$_s_hex_parser__program_8c.html#a2cc74a9050ddd67bba341795a848947a" title="This function processes a specific type of data record in Intel Hex format." alt="" coords="406,807,598,849"/>
+<area shape="poly" id="edge21_Node000018_Node000021" title=" " alt="" coords="324,793,390,805,389,811,323,799"/>
+<area shape="rect" id="Node000022" href="$_s_hex_parser__program_8c.html#aec73bfe0ecca9c6aa09dba9abe47072d" title="This function is responsible for setting the start address for the application based on the data prov..." alt="" coords="406,873,598,916"/>
+<area shape="poly" id="edge22_Node000018_Node000022" title=" " alt="" coords="315,797,338,808,354,821,363,834,372,847,387,859,395,864,393,869,383,864,368,851,359,838,350,825,336,813,313,802"/>
+<area shape="rect" id="Node000020" href="$_m_f_m_i__program_8c.html#a5d074f47165e736bedfc24d37c32fb77" title="This function responsible for writing to flash memory for the specified Copy_u8DataLength from the Co..." alt="" coords="666,756,813,783"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="619,767,651,767,651,772,619,772"/>
+</map>

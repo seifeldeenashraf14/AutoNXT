@@ -1,0 +1,9 @@
+../Src/MSPI_Program.c:16:6:MSPI1_voidInit	4	static
+../Src/MSPI_Program.c:68:5:MSPI1_voidSendReceiveData	16	static
+../Src/MSPI_Program.c:81:6:MSPI1_voidSetCallBack	16	static
+../Src/MSPI_Program.c:88:6:SPI1_IRQHandler	8	static
+../Src/MSPI_Program.c:96:6:MSPI2_voidInit	4	static
+../Src/MSPI_Program.c:148:5:MSPI2_voidSendReceiveData	16	static
+../Src/MSPI_Program.c:161:6:MSPI2_voidSetCallBack	16	static
+../Src/MSPI_Program.c:168:6:SPI2_IRQHandler	8	static
+../Src/MSPI_Program.c:177:5:MSPI2_u16ReadReceivedValue	4	static

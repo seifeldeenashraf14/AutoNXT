@@ -1,0 +1,5 @@
+<map id="include/MCAL/RCC/MRCC_private.h" name="include/MCAL/RCC/MRCC_private.h">
+<area shape="rect" id="Node000001" title="The Reset Clock Control header file that has all the addresses of the registers, their base address a..." alt="" coords="5,5,181,48"/>
+<area shape="rect" id="Node000002" href="$_m_r_c_c__program_8c.html" title="The Reset Clock Control C file that has the functions body which is responsible for peripherals clock..." alt="" coords="20,96,166,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,64,96,95,90,95,90,64"/>
+</map>

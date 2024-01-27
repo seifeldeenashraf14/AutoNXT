@@ -1,0 +1,2 @@
+../Src/HFSR_Program.c:17:6:HFSR_voidInit	8	static
+../Src/HFSR_Program.c:23:5:HFSR_u32MeasureForce	16	static

@@ -1,0 +1,7 @@
+<map id="APP_voidStartApplication" name="APP_voidStartApplication">
+<area shape="rect" id="Node000001" title="A function that set the start address of vector table and application." alt="" coords="5,31,175,57"/>
+<area shape="rect" id="Node000002" href="$_m_s_c_b__program_8c.html#a724b5aeeca3086037aafa4b685b5d7b8" title="This function set the vector table of the microcontroller." alt="" coords="225,5,403,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,32,209,28,210,33,175,37"/>
+<area shape="rect" id="Node000003" href="$_m_s_t_k__program_8c.html#a06f7aa2eae169670786e8c13c7b04c70" title="This funciton is used to calculate the elapsed time from it starts to count." alt="" coords="223,56,405,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,51,207,55,207,60,175,56"/>
+</map>

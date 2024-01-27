@@ -1,0 +1,2 @@
+HLDR_Program.c:16:6:HLDR_voidInit	1
+HLDR_Program.c:22:5:HLDR_u32MeasureLightIntensity	1

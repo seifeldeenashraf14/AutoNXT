@@ -1,0 +1,5 @@
+<map id="include/MCAL/UART/MUART_private.h" name="include/MCAL/UART/MUART_private.h">
+<area shape="rect" id="Node000001" title="The UART Private Header file that has all the addresses of the registers, their base address and any ..." alt="" coords="5,5,195,48"/>
+<area shape="rect" id="Node000002" href="$_m_u_a_r_t__program_8c.html" title="The UART Program C file that has the functions body which is responsible for Transmitting and Receivi..." alt="" coords="23,96,177,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,64,103,95,97,95,97,64"/>
+</map>

@@ -1,0 +1,7 @@
+MGPIO_Program.c:14:6:MGPIO_voidSetPinMode	12
+MGPIO_Program.c:45:6:MGPIO_voidSetPinOutputMode	12
+MGPIO_Program.c:82:6:MGPIO_voidSetPinInputMode	12
+MGPIO_Program.c:114:6:MGPIO_voidSetPinValue	18
+MGPIO_Program.c:166:6:MGPIO_voidGetPinValue	13
+MGPIO_Program.c:198:6:MGPIO_voidSetResetPin	18
+MGPIO_Program.c:251:6:MGPIO_voidSetPinAltrenativeFunction	15

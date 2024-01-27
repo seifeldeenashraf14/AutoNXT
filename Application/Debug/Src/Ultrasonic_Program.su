@@ -1,0 +1,5 @@
+../Src/Ultrasonic_Program.c:20:6:HUltrasonic_voidInit	8	static
+../Src/Ultrasonic_Program.c:36:6:HUltrasonic_voidTrigger	16	static,ignoring_inline_asm
+../Src/Ultrasonic_Program.c:47:5:HUltrasonic_u16ReadDistanceNonBlocking	4	static
+../Src/Ultrasonic_Program.c:53:13:HUltrasonic_voidCallBack	16	static
+../Src/Ultrasonic_Program.c:69:5:HUltrasonic_voidReadDistanceBlocking	16	static,ignoring_inline_asm

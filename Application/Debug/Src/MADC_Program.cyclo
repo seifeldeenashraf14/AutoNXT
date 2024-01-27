@@ -1,0 +1,9 @@
+MADC_Program.c:20:6:MADC_VoidInit	3
+MADC_Program.c:108:6:MADC_VoidEnable	1
+MADC_Program.c:113:6:MADC_VoidDisable	1
+MADC_Program.c:119:6:MADC_VoidStartConversion	1
+MADC_Program.c:124:6:MADC_VoidStopConversion	1
+MADC_Program.c:130:5:MADC_u16ReadSynch	2
+MADC_Program.c:137:6:MADC_SetCallBack	1
+MADC_Program.c:143:6:ADC_IRQHandler	1
+MADC_Program.c:148:6:MADC_VoidStartChannelConversion	1

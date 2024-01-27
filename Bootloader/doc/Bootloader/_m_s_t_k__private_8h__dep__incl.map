@@ -1,0 +1,5 @@
+<map id="include/MCAL/STK/MSTK_private.h" name="include/MCAL/STK/MSTK_private.h">
+<area shape="rect" id="Node000001" title="The Systick Timer interface header file that has all the addresses of the registers,..." alt="" coords="5,5,177,48"/>
+<area shape="rect" id="Node000002" href="$_m_s_t_k__program_8c.html" title="The Systick Timer C file that has all the implementations of the functions STK driver." alt="" coords="19,96,163,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,64,94,95,88,95,88,64"/>
+</map>

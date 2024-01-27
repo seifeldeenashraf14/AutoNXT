@@ -1,0 +1,7 @@
+<map id="include/MCAL/SCB/MSCB_interface.h" name="include/MCAL/SCB/MSCB_interface.h">
+<area shape="rect" id="Node000001" title="The System Control Block C file that has all the functions prototypes and arguments of the SCB driver..." alt="" coords="60,5,236,48"/>
+<area shape="rect" id="Node000002" href="$_m_s_c_b__program_8c.html" title="The System Control Block C file that has the functions body of SCB driver." alt="" coords="5,96,152,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,62,91,97,87,94,118,58"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title="The bootloader logic &#160;&#160;Target STM32F401CC (Black Pill)" alt="" coords="176,96,258,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,58,208,94,204,97,174,62"/>
+</map>

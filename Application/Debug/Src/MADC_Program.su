@@ -1,0 +1,9 @@
+../Src/MADC_Program.c:20:6:MADC_VoidInit	24	static
+../Src/MADC_Program.c:108:6:MADC_VoidEnable	4	static
+../Src/MADC_Program.c:113:6:MADC_VoidDisable	4	static
+../Src/MADC_Program.c:119:6:MADC_VoidStartConversion	4	static
+../Src/MADC_Program.c:124:6:MADC_VoidStopConversion	4	static
+../Src/MADC_Program.c:130:5:MADC_u16ReadSynch	4	static
+../Src/MADC_Program.c:137:6:MADC_SetCallBack	16	static
+../Src/MADC_Program.c:143:6:ADC_IRQHandler	8	static
+../Src/MADC_Program.c:148:6:MADC_VoidStartChannelConversion	16	static

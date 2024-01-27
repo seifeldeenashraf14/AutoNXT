@@ -1,0 +1,2 @@
+../Src/HLDR_Program.c:16:6:HLDR_voidInit	8	static
+../Src/HLDR_Program.c:22:5:HLDR_u32MeasureLightIntensity	16	static

@@ -1,0 +1,5 @@
+<map id="tstrUART" name="tstrUART">
+<area shape="rect" id="Node000001" title="This struct has all the UART registers." alt="" coords="23,352,88,528"/>
+<area shape="rect" id="Node000002" href="$structtstr_c_r1.html" title="This struct has all the CR1 bits." alt="" coords="5,5,105,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,288,58,335,53,335,53,288"/>
+</map>

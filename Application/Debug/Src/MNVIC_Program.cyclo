@@ -1,0 +1,7 @@
+MNVIC_Program.c:16:6:MNVIC_voidEnablePeripheralInterrupt	1
+MNVIC_Program.c:21:6:MNVIC_voidDisablePeripheralInterrupt	1
+MNVIC_Program.c:27:6:MNVIC_voidSetPeripheralInterruptPending	1
+MNVIC_Program.c:33:6:MNVIC_voidClearPeripheralInterruptPending	1
+MNVIC_Program.c:39:6:MNVIC_voidGetInterruptState	1
+MNVIC_Program.c:44:6:MNVIC_voidSetInterruptGroupMode	1
+MNVIC_Program.c:52:6:MNVIC_voidSetInterruptPriority	6

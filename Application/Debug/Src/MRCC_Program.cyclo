@@ -1,0 +1,6 @@
+MRCC_Program.c:14:6:MRCC_voidInit	2
+MRCC_Program.c:114:6:MRCC_voidEnablePeripheral	6
+MRCC_Program.c:137:6:MRCC_voidDisablePeripheral	6
+MRCC_Program.c:160:6:MRCC_voidSetAPB2Prescaler	2
+MRCC_Program.c:175:6:MRCC_voidSetAPB1Prescaler	2
+MRCC_Program.c:190:6:MRCC_voidSetAHB1Prescaler	2

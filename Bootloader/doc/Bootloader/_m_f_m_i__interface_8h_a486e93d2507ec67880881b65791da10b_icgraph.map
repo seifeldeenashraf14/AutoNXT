@@ -1,0 +1,5 @@
+<map id="MFMI_voidEraseSector" name="MFMI_voidEraseSector">
+<area shape="rect" id="Node000001" title="This function is responsible of erasing a single sector of the flash." alt="" coords="221,5,376,32"/>
+<area shape="rect" id="Node000002" href="$_m_f_m_i__program_8c.html#a5aef7afa56971cca754f81efd237fd10" title="This function responsible of erasing a while bank that is passed to it." alt="" coords="5,5,173,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,21,173,21,173,16,205,16"/>
+</map>

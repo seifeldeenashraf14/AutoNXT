@@ -1,0 +1,5 @@
+<map id="include/MCAL/FMI/MFMI_private.h" name="include/MCAL/FMI/MFMI_private.h">
+<area shape="rect" id="Node000001" title="The Flash Memory Interface Header file that has all the addresses of the registers,..." alt="" coords="5,5,171,48"/>
+<area shape="rect" id="Node000002" href="$_m_f_m_i__program_8c.html" title="The Flash Memory Interface C file that has the functions body which is responsible for erasing and wr..." alt="" coords="17,96,159,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,64,91,95,85,95,85,64"/>
+</map>
